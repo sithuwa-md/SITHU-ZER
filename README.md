@@ -4,7 +4,7 @@ A Simple Whatsapp Bot ⚙️
 ## <p align="center"> SITHU-ZER-V5 WHATSAPP BOT
 <br>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SITHU-ZER-V5;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SITHUM;RELEASED+DATE+24%2F03%2F2024." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SITHU-ZER-V5;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SITHUM;RELEASED+DATE+10%2F01%2F2025." alt="Typing SVG" /></a>
 </p>
 
 
